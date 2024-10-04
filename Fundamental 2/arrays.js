@@ -10,6 +10,7 @@ console.log(friends[friends.length - 1])
 // Add elements
 friends.push("Usopp");
 friends.unshift("Robin"); //Adds element to the beginning of array
+friends.unshift("Franky");
 console.log(friends);
 
 // Remove elements
