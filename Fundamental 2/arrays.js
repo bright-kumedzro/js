@@ -18,6 +18,7 @@ friends.pop();
 console.log(friends);
 
 friends.shift(); // Remove first element
+friends.push("Nami");
 console.log(friends);
 
 //Finding location of element
